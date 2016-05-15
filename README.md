@@ -1,12 +1,12 @@
 # coverage
-COpy-moVe forgERy dAtabase with similar but Genuine objEcts
+Copy-Move Forgery Database with Similar but Genuine Objects
 =============
 
-The COpy-moVe forgERy dAtabase with similar but Genuine objEcts (COVERAGE) accompanies the following publication: "COVERAGE– A NOVEL DATABASE FOR COPY-MOVE FORGERY DETECTION," IEEE International Conference on Image processing, 2016 [ICIP 2016] (http://www.http://2016.ieeeicip.org/)"
+The Copy-Move Forgery Database with Similar but Genuine Objects (COVERAGE) accompanies the following publication: "COVERAGE– A NOVEL DATABASE FOR COPY-MOVE FORGERY DETECTION," IEEE International Conference on Image processing, 2016 [ICIP 2016] (http://2016.ieeeicip.org/)"
 
 Insert the dataset description here.
 
-You can download the complete dataset here: [Download CWFID](https://onedrive.live.com/redir?resid=4B518F0277851508!709&authkey=!ADJSupKlX_Ij8Yc&ithint=folder%2c).
+You can download the complete dataset here: [Download COVERAGE](https://onedrive.live.com/redir?resid=4B518F0277851508!709&authkey=!ADJSupKlX_Ij8Yc&ithint=folder%2c).
 
 Paper
 -----
