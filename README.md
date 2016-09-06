@@ -5,6 +5,7 @@ Copy-Move Forgery Database with Similar but Genuine Objects
 The Copy-Move Forgery Database with Similar but Genuine Objects (COVERAGE) accompanies the following publication: "COVERAGE– A NOVEL DATABASE FOR COPY-MOVE FORGERY DETECTION," IEEE International Conference on Image processing, 2016 [ICIP 2016] (http://2016.ieeeicip.org/)"
 
 Dataset description:
+
 COVERAGE contains copymove forged (CMFD) images and their originals with similar but genuine objects (SGOs). COVERAGE is designed to highlight and address tamper detection ambiguity of popular methods, caused by self-similarity within natural images. In COVERAGE, forged–original pairs are annotated with (i) the duplicated and forged region masks, and (ii) the tampering factor/similarity metric. For benchmarking, forgery quality is evaluated using (i) computer vision-based methods, and (ii) human detection performance.
 
 You can download the complete dataset here: [Download COVERAGE](https://onedrive.live.com/redir?resid=4B518F0277851508!709&authkey=!ADJSupKlX_Ij8Yc&ithint=folder%2c).
@@ -12,6 +13,7 @@ You can download the complete dataset here: [Download COVERAGE](https://onedrive
 Paper
 -----
 Paper available [here](http://stefan.winkler.net/Publications/icip2016b.pdf).
+
 B. Wen, Y. Zhu, R. Subramanian, T. Ng, X. Shen, and S. Winkler, “COVERAGE – A Novel Database for Copy-move Forgery Detection,” in Proc. IEEE Int. Conf. Image Processing (ICIP), 2016.
 
 Bibtex:
@@ -26,6 +28,6 @@ Bibtex:
 
 Use
 ---
-All data is subject to copyright and may only be used for non-commercial research. In case of use please cite our publication.
+All data is subject to copyright and may only be used for non-commercial research. In case of use, please cite our publication.
 
 Contact Bihan Wen (bihan.wen.uiuc@gmail.com) for any questions.
