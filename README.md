@@ -8,7 +8,7 @@ Dataset description:
 
 COVERAGE contains copymove forged (CMFD) images and their originals with similar but genuine objects (SGOs). COVERAGE is designed to highlight and address tamper detection ambiguity of popular methods, caused by self-similarity within natural images. In COVERAGE, forged–original pairs are annotated with (i) the duplicated and forged region masks, and (ii) the tampering factor/similarity metric. For benchmarking, forgery quality is evaluated using (i) computer vision-based methods, and (ii) human detection performance.
 
-You can download the complete dataset here: [Download COVERAGE](https://onedrive.live.com/redir?resid=4B518F0277851508!709&authkey=!ADJSupKlX_Ij8Yc&ithint=folder%2c).
+You can download the complete dataset here: [Download COVERAGE](https://1drv.ms/f/s!AggVhXcCj1FLhUUyUrqSpV_yI_GH).
 
 Paper
 -----
