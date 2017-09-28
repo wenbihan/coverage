@@ -35,6 +35,8 @@ Contact Bihan Wen (bihan.wen.uiuc@gmail.com) for any questions.
 Update and Fix
 -----
 Update Sep 27, 2017
+
 We fixed some errors in the Original / Tempered image labels in the COVERAGE database. 
+
 For users who downloaded the COVERAGE images before Sep 27, 2017, please kindly update them from our oneDrive space.
 
