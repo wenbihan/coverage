@@ -2,7 +2,7 @@
 Copy-Move Forgery Database with Similar but Genuine Objects
 =============
 
-The Copy-Move Forgery Database with Similar but Genuine Objects (COVERAGE) accompanies the following publication: "COVERAGE– A NOVEL DATABASE FOR COPY-MOVE FORGERY DETECTION," IEEE International Conference on Image processing (ICIP), 2016. [link to publisher](http://ieeexplore.ieee.org/abstract/document/7532339/), [paper](http://stefan.winkler.net/Publications/icip2016b.pdf)
+The Copy-Move Forgery Database with Similar but Genuine Objects (COVERAGE) accompanies the following publication: "COVERAGE– A NOVEL DATABASE FOR COPY-MOVE FORGERY DETECTION," IEEE International Conference on Image processing (ICIP), 2016. [link to publisher](http://ieeexplore.ieee.org/abstract/document/7532339/), [paper](https://stefan.winklerbros.net/Publications/icip2016b.pdf)
 
 Dataset description:
 
@@ -12,7 +12,7 @@ You can download the complete dataset here: [Download COVERAGE](https://1drv.ms/
 
 Paper
 -----
-Paper available [here](http://stefan.winkler.net/Publications/icip2016b.pdf).
+Paper available [here](https://stefan.winklerbros.net/Publications/icip2016b.pdf).
 
 B. Wen, Y. Zhu, R. Subramanian, T. Ng, X. Shen, and S. Winkler, “COVERAGE – A Novel Database for Copy-move Forgery Detection,” in Proc. IEEE Int. Conf. Image Processing (ICIP), 2016.
 
