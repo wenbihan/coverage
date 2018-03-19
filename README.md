@@ -10,6 +10,10 @@ COVERAGE contains copymove forged (CMFD) images and their originals with similar
 
 You can download the complete dataset here: [Download COVERAGE](https://1drv.ms/f/s!AggVhXcCj1FLhUUyUrqSpV_yI_GH).
 
+For users from mainland China, if you have difficulty accessing the OneDrive link, please use the following link to download the complete dataset:
+Link: https://pan.baidu.com/s/11i_swrFveLc9uZr1eR006Q
+Password: zduj
+
 Paper
 -----
 Paper available [here](https://stefan.winklerbros.net/Publications/icip2016b.pdf).
