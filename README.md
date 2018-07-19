@@ -26,7 +26,7 @@ Bibtex:
   author={Wen, Bihan and Zhu, Ye and Subramanian, Ramanathan and Ng, Tian-Tsong and Shen, Xuanjing and Winkler, Stefan},
   title={COVERAGE – A NOVEL DATABASE FOR COPY-MOVE FORGERY DETECTION},
   year={2016},
-  booktitle={IEEE International Conference on Image processing (ICIP)}
+  booktitle={IEEE International Conference on Image processing (ICIP)},
   pages={161--165}
 }
 ```
