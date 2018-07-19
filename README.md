@@ -27,8 +27,7 @@ Bibtex:
   title={COVERAGE – A NOVEL DATABASE FOR COPY-MOVE FORGERY DETECTION},
   year={2016},
   booktitle={IEEE International Conference on Image processing (ICIP)}
-  pages={161--165},
-  year={2016}
+  pages={161--165}
 }
 ```
 
